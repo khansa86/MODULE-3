@@ -1,0 +1,7 @@
+.hovering:hover{
+background-color: gray;
+color: white;
+}
+.hovering:focus{
+   color: gray;
+}
